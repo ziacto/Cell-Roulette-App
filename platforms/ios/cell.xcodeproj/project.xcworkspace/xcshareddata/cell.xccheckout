@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>92F92B2C-D249-465E-9F6E-E41F0C3B5947</string>
+	<key>IDESourceControlProjectName</key>
+	<string>cell</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FE323A9F-270F-4457-962F-E49AA9847654</key>
+		<string>https://github.com/xuexueMaGicK/Cell-Roulette-App.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>platforms/ios/cell.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FE323A9F-270F-4457-962F-E49AA9847654</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/xuexueMaGicK/Cell-Roulette-App.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FE323A9F-270F-4457-962F-E49AA9847654</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FE323A9F-270F-4457-962F-E49AA9847654</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Cell-Roulette-App</string>
+		</dict>
+	</array>
+</dict>
+</plist>
